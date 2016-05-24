@@ -1,0 +1,32 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5.1 (E:\Hobbyraum\AppData\Local\Programs\Python\Python35-32\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="E:\Hobbyraum\AppData\Local\Programs\Python\Python35-32\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/beautifulsoup4-4.4.1-py3.5.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/tweepy-3.5.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/six-1.10.0-py3.5.egg" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/requests_oauthlib-0.6.1-py3.5.egg" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/requests-2.10.0-py3.5.egg" />
+            <root type="simple" url="jar://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/oauthlib-1.1.1-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1057303628" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
